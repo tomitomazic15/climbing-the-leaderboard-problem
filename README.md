@@ -4,4 +4,4 @@ Aplikacija nima error handlanja tako, da se vstaljajo samo številke.
 
 Prvo vprašanje pomeni koliko številk hočete za total score, naslednjo pa koliko vaših ali aličinih rezultatov hočete.
 
-Koliko boste vnesli za vsaka dva vprašanja bo šlo v for loop in vprašalo za vsako številko posebej.
+Koliko boste vnesli za oba vprašanja bo šlo v for loop in vprašalo za vsako številko posebej.
