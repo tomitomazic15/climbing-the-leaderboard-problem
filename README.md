@@ -1,7 +1,7 @@
 Link do mega donwloada : https://mega.nz/#!KtNGxKBT!ZowLluiY3QRQ3FcUWmWBi8ShtO1XAox7LIiwScJI1Cs
 
-Aplikacija nima error handlanja tako, da se vstaljajo samo stevilke.
+Aplikacija nima error handlanja tako, da se vstaljajo samo številke.
 
-Prvo vprasanje pomeni koliko stevilk hocete za total score, naslednjo pa koliko vasih ali alicinih rezultatov hocete.
+Prvo vprašanje pomeni koliko številk hočete za total score, naslednjo pa koliko vaših ali aličinih rezultatov hočete.
 
-Koliko boste vnesli za vsaki dva vprasanja bo slo v for loop in vprasalo za vsako stevilko posebej.
+Koliko boste vnesli za vsaka dva vprašanja bo šlo v for loop in vprašalo za vsako številko posebej.
