@@ -5,14 +5,14 @@ import random
 import re
 import sys
 
-first_question = int(input("How many scores are there?  "))
-second_question = int(input("How many of your score do you have ? "))
+first_question = int(input("Amount of numbers for total score:  "))
+second_question = int(input("Amount of numbers for Alica score: "))
 
 score_list = []
 alica_list = []
 
 for x in range(first_question):
-    number = int(input("Enter Score: "))
+    number = int(input("Enter Total Score: "))
     score_list.append(number)
 
 for x in range(second_question):
